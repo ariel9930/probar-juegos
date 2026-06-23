@@ -54,3 +54,15 @@ body {
     align-items: center;
 
 }
+
+.mini {
+    text-align: center;
+}
+
+.mini p {
+    font-weight: bold;
+}
+
+.centro {
+    background-color: #f5f5f5;
+}
